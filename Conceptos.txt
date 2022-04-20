@@ -1,0 +1,10 @@
+*** CONCEPTS SOFTWARE DEVELOPEMENT AND JAVA SCRIPT ***
+
+VAR is a declaration for global variables
+LET is a declaration for local variables -- this is the best practice
+UNDEFINED is a data type is not defined (the data not exist)
+NULL is a data type that is defined how empty (the data exists)
+EXPRESIONS always return a value (1+1 return 2)
+STATEMENTS make an accion (if(condition){}) dont return any
+== evaluate the expresion without comparate data types -- JS equalize the data types
+=== evaluate the expresion comparing data types
