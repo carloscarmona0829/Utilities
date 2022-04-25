@@ -8,12 +8,14 @@ git status --> Verifica el estado de los archivos
 git add "" --> Adiciona archivos para cargar en el próximo Commit
 git commit --> Realiza un Snap Shot de los archivos de un repo
 git push --> Carga los archivos de la carpeta a Git Hub
+gti branch --> lista las ramas
 git branch nombre de la rama --> Crea una nueva rama
 git log --oneline --decorate --all --graph -->Resumen de la rama donde estoy parado (HEAD)
 git checkout nombre rama -->se para en la rama de nombre rama
 git branch -d nombre rama -->Borrar una rama
 
 git pull origin master -->actualiza el repositorio local desde la rama master
+
 
 --- SEND BREACK con la letra q ---
 
